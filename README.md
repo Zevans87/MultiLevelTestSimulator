@@ -10,16 +10,16 @@ the student will either advance to the next level or not. Finally, the results a
 
 Features of the program -
   * Reads student names frome the input file named "SP23_HW1.txt".
-  * Four levels of testing : + Level 1: 10 questions - advance with greater or equal to 50%.
-                            + Level 2: 40 questions - advance with greater or equal to 20%.
-                            + Level 3: 100 questions - dynamically determines size of level 4.
-                            + Level 4: Number of questions = 10% of the score from level 3.
+  * Four levels of testing : * Level 1: 10 questions - advance with greater or equal to 50%.
+                             * Level 2: 40 questions - advance with greater or equal to 20%.
+                             * Level 3: 100 questions - dynamically determines size of level 4.
+                             * Level 4: Number of questions = 10% of the score from level 3.
   * Outputs the test results to the file named "SP23_HW1_GradeReport.txt".
   * Tracks and displays the students progression by using vectors.
-  * Demonstrates the use of : + Dynamic Memory Allocation
-                             + Random Number Generation
-                             + Conditional Logic
-                             + File Streams and Loops
+  * Demonstrates the use of : * Dynamic Memory Allocation
+                              * Random Number Generation
+                              * Conditional Logic
+                              * File Streams and Loops
 
 Files - 
   * Main source code : ProgrammingAssignment1.cpp
