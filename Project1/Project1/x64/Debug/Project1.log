@@ -1,0 +1,23 @@
+﻿  ProgrammingAssignment1.cpp
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(26,16): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(85,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(149,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(210,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(271,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(332,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(393,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(454,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(515,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(576,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(637,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(698,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(759,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(820,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(881,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(942,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(1003,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(1064,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(1125,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(1186,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\Project1\ProgrammingAssignment1.cpp(1247,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Zach\Documents\UHV\C++\LectureAssignments\Project1\x64\Debug\Project1.exe
